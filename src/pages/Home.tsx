@@ -1,7 +1,7 @@
 
 
 import { Link } from 'react-router-dom';
-import { FaDownload, FaBook, FaUsers, FaLightbulb } from 'react-icons/fa';
+import { FaDownload } from 'react-icons/fa';
 
 // interface FeatureCardProps {
 //   icon: React.ElementType;
